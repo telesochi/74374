@@ -1206,7 +1206,7 @@
   {  "identificator" : "erasure",
    "name" : "Erasure FM",
    "stream" : "https://streaming.exclusive.radio/er/erasure/icecast.audio",
-   "picture" : "https://glavnoeradio.ru/2610/logo/erasure.webp",
+   "picture" : "https://telesochi.github.io/74374/logo/erasure.webp",
    "number" : "275",
    "category" : "retro"
   }
